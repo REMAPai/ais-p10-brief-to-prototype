@@ -12,8 +12,7 @@ Fill this in as you go. It is what the AI check reads and what you present from 
 
 - Repository URL:
 - Commit to be scored:
-- Loom walkthrough (5 minutes or less):
-- Engagement shown in the Loom:
+- Loom walkthrough (8 minutes or less, covering all five engagements):
 
 ## Engagement 1: LabLine (Healthcare)
 

@@ -1,11 +1,6 @@
 # 5. Submit and Present
 
-## Before You Start
-
-1. Click **Use this template** to create your own copy of this repository. Make it private.
-2. Add the reviewer account named on your assignment as a read-only collaborator.
-
-## Submitting (Day 7)
+## Submitting (Day 14)
 
 1. Check every box in [SUCCESS.md](../SUCCESS.md).
 2. Fill in `SUBMISSION.md`.
@@ -13,21 +8,23 @@
 
 If anything is missing, the AI check sends it back with a list. Fix it and resubmit.
 
-## The Loom (5 minutes or less)
+## The Loom (8 minutes or less, all five engagements)
 
-One engagement of your choice, spoken to a non-technical client:
+Your Loom must cover all five engagements, not just one. Speak to a non-technical client throughout.
 
-1. The problem in the client's terms (30 seconds)
-2. The rule you had to dig up and why it matters (30 seconds)
-3. The mockup working, including that rule being enforced (2 minutes)
-4. The schema and the cost to build and run (1 minute)
-5. What production would need (30 seconds)
+| Time | Cover |
+|---|---|
+| 0:00 to 0:15 | One line on what the project was |
+| Per engagement, about 1:30 each | The problem in one line; the rule you dug up, shown being enforced in the mockup; the build and run cost, as one figure |
+| Last 0:30 | One line on your AI pipeline: where the human checkpoint mattered most |
 
-## The Live Review (about 30 minutes)
+That totals to roughly 8 minutes. Trim detail, not engagements: every one of the five needs to appear, even briefly.
+
+## The Live Review (about 30 minutes, more if two engagements)
 
 Your reviewer schedules it after the AI check passes.
 
-- They pick one engagement, not the one in your Loom. You present it in under five minutes.
+- They pick one or two engagements from your five and tell you which. You present each in under five minutes.
 - They play the client and push back on a cost and a design decision.
 - They ask you to walk through your AI pipeline in two minutes.
 - They ask questions from the list below.
@@ -55,7 +52,7 @@ If communication has been flagged, spend ten minutes a day talking through your 
 
 ## Deadline
 
-7 working days from the day you create your copy. The platform reminds you and your assigner. A late submission is flagged and kept on record, nothing more. If you will miss it, say so early.
+14 working days from the day you create your copy. The platform reminds you and your assigner. A late submission is flagged and kept on record, nothing more. If you will miss it, say so early.
 
 ## Portfolio Use
 

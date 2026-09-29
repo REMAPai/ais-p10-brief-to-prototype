@@ -1,4 +1,6 @@
-# 2. What You Will Build
+# 4. What You Will Build
+
+Before Engagement 1, open `examples/worked-example-loandesk/mockup.html` in a browser and click through it, then read its `compilation.md`. That is what "done" looks like.
 
 ## The Five Engagements
 
@@ -25,7 +27,7 @@ The seven sections of `compilation.md`, in order:
 
 1. **Feasibility Note:** real build and run costs, with reasoning
 2. **SRS:** requirements, plus at least one domain rule you dug up yourself and checked
-3. **System and Database Design:** schema and critical flow as Mermaid diagrams
+3. **System and Database Design:** schema and critical flow as diagrams
 4. **Agent Direction Log:** what you asked for, what you corrected
 5. **Test Sheet:** at least six checks, one regression case tied to a real defect
 6. **Ship-Readiness Note:** what production would actually need
@@ -33,19 +35,15 @@ The seven sections of `compilation.md`, in order:
 
 The worked example in `examples/worked-example-loandesk/` shows the depth expected. Copy its shape, not its wording.
 
-## Your Seven Days
+## Your Two Days Per Engagement
+
+Five engagements, two days each. By this point you have already learned the material (guide 1), set up your repository and read the standards (guide 2), and drafted your AI pipeline (guide 3).
 
 | Day | Do this |
 |---|---|
-| 1 | Click through the worked example. Write your `CLAUDE.md` and the first draft of `docs/ai-pipeline.md` (see [03-ai-pipeline.md](03-ai-pipeline.md)). Then run Engagement 1 |
-| 2 to 5 | One engagement per day |
-| 6 | Finish `docs/ai-pipeline.md`, write `docs/reflection.md`, update `LEARNING_LOG.md`, fill in `SUBMISSION.md` |
-| 7 | Record your Loom, check against `SUCCESS.md`, submit |
+| Day 1 of the pair | **Requirements and design.** Find the unstated rule, check it, sketch the schema and flow by hand, write sections 1 to 3 |
+| Day 2 of the pair | **Build and check.** Write `spec.md`, direct the agent, correct it, write section 4. Run the flow, take screenshots, write sections 5 to 7, commit |
 
-Each engagement day runs three phases:
-
-1. **Requirements and design:** find the unstated rule, check it, sketch the schema and flow by hand, write sections 1 to 3.
-2. **Build:** write `spec.md`, direct the agent, correct it, write section 4.
-3. **Check:** run the flow, take screenshots, write sections 5 to 7, commit.
+So across the project: Engagement 1 on days 3 to 4, Engagement 2 on days 5 to 6, Engagement 3 on days 7 to 8, Engagement 4 on days 9 to 10, Engagement 5 on days 11 to 12. Feed anything the agent got wrong back into `CLAUDE.md` as you go, so the next engagement does not repeat it.
 
 Out of scope on purpose: real servers, real integrations (simulate them), CI/CD, automated test suites, live hosting.

@@ -14,7 +14,7 @@ Anything missing sends your submission back before a human sees it.
 - [ ] `compilation.md` has all seven sections filled in, in order
 - [ ] Build and run costs are real figures, with reasoning
 - [ ] The SRS names at least one domain rule not stated in the brief, and says how you checked it
-- [ ] At least two Mermaid diagrams (a schema and a critical flow) that render on GitHub
+- [ ] At least two diagrams (a schema and a critical flow), in any tool, displaying inline with no separate app needed
 - [ ] The agent direction log records at least one real correction
 - [ ] The test sheet has at least six checks and one regression case tied to a real defect
 - [ ] `mockup.html` opens from disk and is clickable through its core flow
@@ -23,11 +23,11 @@ Anything missing sends your submission back before a human sees it.
 ### Project level
 
 - [ ] `CLAUDE.md` filled in with your own content, and updated during the project
-- [ ] `docs/ai-pipeline.md` has all five parts, including a Mermaid pipeline diagram covering every stage and your marked folder tree
+- [ ] `docs/ai-pipeline.md` has all five parts, including a pipeline diagram (any tool) covering every stage and your marked folder tree
 - [ ] `docs/reflection.md` compares Engagement 1 with Engagement 5
 - [ ] `LEARNING_LOG.md` has at least five entries with confidence scores
 - [ ] `SUBMISSION.md` is filled in
-- [ ] A Loom of 5 minutes or less
+- [ ] A Loom of 8 minutes or less, covering all five engagements
 - [ ] At least one commit per engagement, spread across the timeline
 - [ ] No secrets and no real personal data anywhere
 

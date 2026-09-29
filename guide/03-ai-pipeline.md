@@ -2,7 +2,7 @@
 
 AI now writes most of the code. What separates a strong engineer is how they run it: where AI is used, where a human checks it, which tools do what, and what context the AI works from. On this project you document your own pipeline in `docs/ai-pipeline.md`, and you prove it with the files in your repository.
 
-Draft it on Day 1, before Engagement 1. Update it as you learn. Finish it on Day 6 so it describes what you **actually** did, not what you planned.
+Draft it on Day 2, right after you learn the SDLC material in [guide/01-learn.md](01-learn.md) and set up your repository in [guide/02-structure.md](02-structure.md), and before you touch Engagement 1. Update it as you learn. Finish it on Day 13 so it describes what you **actually** did, not what you planned.
 
 ---
 
@@ -10,7 +10,7 @@ Draft it on Day 1, before Engagement 1. Update it as you learn. Finish it on Day
 
 ### Part 1: The pipeline diagram
 
-One Mermaid flowchart covering every stage of your lifecycle, from brief to presentation. For each stage, show:
+One diagram covering every stage of your lifecycle, from brief to presentation. For each stage, show:
 
 - what the **AI** does
 - what **you** do
@@ -19,7 +19,9 @@ One Mermaid flowchart covering every stage of your lifecycle, from brief to pres
 
 The stages are at least: Requirements, Design, Spec, Build, Test, Ship-Readiness, Present. Add any others you use.
 
-This shows the format only. Yours must be complete and your own:
+Use any tool you like: Mermaid, draw.io, Excalidraw, a whiteboard photo, or similar. Whatever you use, it must drop into `docs/ai-pipeline.md` and display inline, with no separate app needed to read it. Text-based tools like Mermaid render directly on GitHub; if you use a drawing tool, save it as an image and embed it with a markdown image link.
+
+The example below uses Mermaid because it renders inline here, but this shows the format only, not the required tool. Yours must be complete and your own:
 
 ```mermaid
 flowchart LR
@@ -61,7 +63,7 @@ How you decide what the AI knows at each moment. Include:
 
 ### Part 5: What changed
 
-A short paragraph comparing your Day 1 draft with your final version.
+A short paragraph comparing your Day 2 draft with your final version.
 
 ---
 
@@ -69,7 +71,7 @@ A short paragraph comparing your Day 1 draft with your final version.
 
 | File | What goes in it |
 |---|---|
-| `CLAUDE.md` | Your project context file. Starts as a stub; you fill it on Day 1 and keep it current. If you use another tool, keep the same content in its equivalent file and say so in Part 2 |
+| `CLAUDE.md` | Your project context file. Starts as a stub; you fill it on Day 2 and keep it current. If you use another tool, keep the same content in its equivalent file and say so in Part 2 |
 | `context/scenario-N-name/spec.md` | The spec for each engagement, committed **before** the mockup |
 
 Your commit history shows whether specs came before builds and whether `CLAUDE.md` grew as you learned. The reviewer looks at both.
