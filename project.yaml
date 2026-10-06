@@ -1,6 +1,6 @@
 project_id: 10
 title: Brief to Prototype
-version: 1.2.0
+version: 1.2.1
 type: prototype-drill
 tier: mid
 category: Scoping and Client Delivery
@@ -28,7 +28,7 @@ technologies_to_learn:
   - Directing a coding agent (Claude Code or equivalent)
   - AI context management (project context file, specs, skills)
   - Single-file HTML, CSS and JavaScript prototypes
-  - Git and GitHub (template repositories, commits, collaborator access)
+  - Git and GitHub (template repositories, public repositories, commits)
   - Loom screen recording
 certifications_required: []
 certifications_recommended:

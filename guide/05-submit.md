@@ -56,4 +56,4 @@ If communication has been flagged, spend ten minutes a day talking through your 
 
 ## Portfolio Use
 
-You may show your own mockups and write-ups as your own practice work, with no copy of this brief and no mention of the programme.
+Your public repository is your portfolio piece. Present your mockups and write-ups as your own practice work.

@@ -1,6 +1,6 @@
 # Project 10: Brief to Prototype
 
-> **Confidential. Covered by your NDA.** Do not share this brief, copy it into a public repository, or describe what REMAP assigns. The work you write is yours; the brief is not.
+> **Confidential. Covered by your NDA.** This repository is public, but your NDA still applies: do not share your reviewer's feedback, your scores, or any detail of how REMAP assesses you, and do not describe which projects REMAP has assigned to you or to others. The work you write is yours.
 
 Five clients, five industries. For each one you take a two-line brief, scope it, design it, direct an AI coding agent to build a working prototype, and present it back as if the client were in the room. Alongside the five, you document your own AI development pipeline: how AI fits into each stage of your work, and how you manage its context.
 
